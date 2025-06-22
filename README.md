@@ -38,6 +38,31 @@ SQL task: Company Hierarchy Reporting
 Can run and test the SQL query with sample data using the link below:
 [Run on DB Fiddle](https://dbfiddle.uk/kPKYrivS)
 
+SQL task: Copy New Rows from One Table to Another (No timestamp or ID flag)
+Can run and test the SQL query with sample data using the link below:
+[Run on DB Fiddle](https://dbfiddle.uk/mlJpIF_S)
+
+SQL task: Headcounts and % of Total per sub_band (No Join/Subquery/Inner Query)
+Can run and test the SQL query with sample data using the link below:
+[Run on DB Fiddle](https://dbfiddle.uk/3DytVvfY)
+
+SQL task: Ratio of Cost-to-Revenue by BU and Month
+Can run and test the SQL query with sample data using the link below:
+[Run on DB Fiddle](https://dbfiddle.uk/lSLOhEot)
+
+SQL task: Cost Ratio by Job Family (India vs International)
+Can run and test the SQL query with sample data using the link below:
+[Run on DB Fiddle](https://dbfiddle.uk/gMYmwbzI)
+
+SQL task: Top 5 Salaries Without ORDER BY
+Can run and test the SQL query with sample data using the link below:
+[Run on DB Fiddle](https://dbfiddle.uk/GoZ98_Z0)
+
+SQL task: Fixing Samantha’s Salary Average Error
+Can run and test the SQL query with sample data using the link below:
+[Run on DB Fiddle](https://dbfiddle.uk/XB0gXW-h)
+
+
 
 
 
