@@ -1,3 +1,6 @@
+--Assumptions:Table: Employees(name, salary)
+
+
 SELECT DISTINCT Salary
 FROM Employees E1
 WHERE 5 > (
