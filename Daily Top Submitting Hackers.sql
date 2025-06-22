@@ -1,10 +1,9 @@
---Contest Duration: March 01, 2016 → March 15, 2016
+--Contest Period: Start: March 1, 2016, End: March 15, 2016
 --Tables:Hackers(hacker_id, name), Submissions(submission_date, submission_id, hacker_id, score)
---Goal:For each contest day:
---Count total number of unique hackers who made at least one submission.
---Identify the hacker_id and name of the hacker who made the maximum number of submissions that day.
---If there's a tie, pick the lowest hacker_id.
---Sort the output by submission_date
+--Goal:For each day in the contest period:
+--Show total number of unique hackers who submitted at least once.
+--Show the hacker_id and name of the top submitting hacker for that day (lowest hacker_id in case of tie).
+
 
 -- Step 1: Count submissions per hacker per day
 WITH HackerSubmissions AS (
