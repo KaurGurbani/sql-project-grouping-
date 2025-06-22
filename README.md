@@ -12,31 +12,31 @@ Can run and test the SQL query with sample data using the link below:
 
 SQL task: Contest Analytics Summary
 Can run and test the SQL query with sample data using the link below:
-[Run on DB Fiddle](https://dbfiddle.uk/S2Whlksp)
+[Run on DB Fiddle](https://dbfiddle.uk/UwB-BIiP)
 
 SQL task: Daily top submitting hackers
 Can run and test the SQL query with sample data using the link below:
-[Run on DB Fiddle](https://dbfiddle.uk/S2Whlksp)
+[Run on DB Fiddle](https://dbfiddle.uk/x4Vkhzlg)
 
 SQL task: Manhattan Distance Between Two Points
 Can run and test the SQL query with sample data using the link below:
-[Run on DB Fiddle](https://dbfiddle.uk/S2Whlksp)
+[Run on DB Fiddle](https://dbfiddle.uk/RObstECG)
 
 SQL task: Print All Prime Numbers ≤ 1000
 Can run and test the SQL query with sample data using the link below:
-[Run on DB Fiddle](https://dbfiddle.uk/S2Whlksp)
+[Run on DB Fiddle](https://dbfiddle.uk/pM9EBzN5)
 
 SQL task: Pivot Occupation Column
 Can run and test the SQL query with sample data using the link below:
-[Run on DB Fiddle](https://dbfiddle.uk/S2Whlksp)
+[Run on DB Fiddle](https://dbfiddle.uk/z5f97Rsk)
 
 SQL task: Classify Nodes in a Binary Tree
 Can run and test the SQL query with sample data using the link below:
-[Run on DB Fiddle](https://dbfiddle.uk/S2Whlksp)
+[Run on DB Fiddle](https://dbfiddle.uk/C3KVmSTi)
 
 SQL task: Company Hierarchy Reporting
 Can run and test the SQL query with sample data using the link below:
-[Run on DB Fiddle](https://dbfiddle.uk/S2Whlksp)
+[Run on DB Fiddle](https://dbfiddle.uk/kPKYrivS)
 
 
 
